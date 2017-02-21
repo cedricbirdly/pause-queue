@@ -1,0 +1,1 @@
+bundle exec sidekiq -r ./sidekiq.rb -C ./sidekiq.yml
